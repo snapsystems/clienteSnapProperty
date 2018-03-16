@@ -22,7 +22,6 @@ insecure@1.0.7                # Allow all DB writes from clients (for prototypin
 
 kadira:flow-router      # Add the flow router
 kadira:blaze-layout
-
 meteortoys:allthings    #Add tooling
 gwendall:auth-client-callbacks # add OnLogin and onLogout on the accounts
 aldeed:collection2
