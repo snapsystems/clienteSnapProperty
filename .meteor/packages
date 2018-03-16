@@ -25,7 +25,6 @@ kadira:blaze-layout
 
 meteortoys:allthings    #Add tooling
 gwendall:auth-client-callbacks # add OnLogin and onLogout on the accounts
-
 aldeed:collection2
 twbs:bootstrap
 accounts-password
